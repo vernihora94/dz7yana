@@ -7,6 +7,11 @@ html {
 .articles {
     padding-bottom: 221px;
     padding-top: 192px;
+    background-image: url("../element.svg"), url("../points.svg");
+    background-repeat: no-repeat;
+    background-position: left top 188px, right 201px center;
+    background-size: auto, 131px;
+    width: 1589px;
 }
 
 .container {
